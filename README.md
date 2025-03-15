@@ -11,7 +11,7 @@ Fitur utama aplikasi ini adalah memberikan panduan terperinci tentang cara menge
 ### Teknologi yang Digunakan
 - **Bahasa Pemrograman**: Java 23
 - **Framework**: Spring Boot 3.4.3
-- **Basis Data**: [Sesuaikan dengan basis data yang Anda gunakan, misalnya PostgreSQL, MySQL, dll]
+- **Basis Data**: PostgreSQL
 - **Arsitektur**: RESTful API, Microservices
 
 ### Persyaratan Sistem
