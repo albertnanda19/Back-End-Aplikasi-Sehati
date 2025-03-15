@@ -83,7 +83,7 @@ Content-Type: application/json
 }
 ```
 
-### Endpoint Utama
+<!-- ### Endpoint Utama
 
 #### Profil Pengguna
 ```
@@ -113,7 +113,7 @@ Authorization: Bearer [token]
 ```
 GET /api/recommendations
 Authorization: Bearer [token]
-```
+``` -->
 
 ## Struktur Proyek
 
