@@ -17,7 +17,9 @@ Fitur utama aplikasi ini adalah memberikan panduan terperinci tentang cara menge
 ### Persyaratan Sistem
 - JDK 23 atau yang lebih baru
 - Maven/Gradle untuk manajemen dependensi
-- [Sesuaikan dengan persyaratan sistem lainnya, misalnya Docker, dll]
+- Minimal RAM 2GB (direkomendasikan 4GB)
+- Ruang penyimpanan kosong minimal 500MB
+- Koneksi internet untuk mengunduh dependensi
 
 ## Instalasi dan Pengaturan
 
